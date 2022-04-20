@@ -628,7 +628,7 @@ main .container .right{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 1.5rem;
+    gap: 1rem;
 }
 
 .customize-theme .choose-bg > div {
@@ -715,6 +715,7 @@ main .container .right{
         position: fixed;
         bottom: 0;
         right: 0;
+        gap: 0;
     }
     .left .notifications-popup{
         position: absolute;
@@ -737,6 +738,9 @@ main .container .right{
         display: none;
     }
     .customize-theme .card{
-        width: 92vw;
+        width: 90vw;
+    }
+    .customize-theme .choose-bg{
+        flex-direction: column;
     }
 }
