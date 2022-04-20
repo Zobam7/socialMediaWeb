@@ -1,4 +1,6 @@
 # SOCIAL MEDIA APP
+https://main.d1okl0cy4n3olq.amplifyapp.com/
+
 
 STACK: HTML, CSS3, JAVASCRIPT
 
